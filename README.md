@@ -1,1 +1,3 @@
-# Footsal_reservation_automation1
+# Footsal_reservation_automation
+
+* using django selenium
